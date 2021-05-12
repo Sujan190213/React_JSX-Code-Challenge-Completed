@@ -1,2 +1,2 @@
-# React_JSX-Code-Challenge-Completed
+# React_Projects
 Created with CodeSandbox
